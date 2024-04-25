@@ -1,4 +1,4 @@
-## EXP3a. SIMULATING ARP/RARP PROTOCOLS
+## Ex.No:2c Simulation of ARP/RARP Protocols
 
 ## AIM:
 To write a python program for simulating ARP/RARP protocols using TCP.
@@ -89,7 +89,7 @@ while True:
     print("Logical address",s.recv(1024).decode())
 ~~~
 
-## OUTPUT -RARP:
+## OUTPUT - RARP:
 # Client
 ![image](https://github.com/K-Dharshini/2c.ARP_RARP_PROTOCOLS/assets/139334830/5cb568ca-1963-4f8e-9aff-455fbc1a7fb1)
 
